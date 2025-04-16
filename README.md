@@ -2,7 +2,7 @@
 
 Comecei nos bastidores da comunicação, em Publicidade e, de repente, me vi mergulhando no mundo dos códigos.
 
-Como todo bom curios, comecei com cursos online, depois fui para um curso intensivo de Java aqui em Portugal, e agora estou no meu técnico de Tecnologias e Programação de Sistemas de Informação. 
+Como toda boa curiosa, comecei com cursos online, depois fui para um curso intensivo de Java aqui em Portugal, e agora estou no meu técnico de Tecnologias e Programação de Sistemas de Informação. 
 
  💻 Estudando no momento:
 
