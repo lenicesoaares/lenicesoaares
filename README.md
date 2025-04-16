@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oiee, sou Lenice! 👋👩‍💻
 
-<!--
-**lenicesoaares/lenicesoaares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Comecei nos bastidores da comunicação, em Publicidade e, de repente, me vi mergulhando no mundo dos códigos.
 
-Here are some ideas to get you started:
+Como toda boa curiosa, comecei com cursos online, depois fui para um curso intensivo de Java aqui em Portugal, e agora estou no meu técnico de Tecnologias e Programação de Sistemas de Informação. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Estudando no momento:
+
+
+- ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
